@@ -8,7 +8,7 @@ MyMicroIDE是一个运行在Android平台上的轻量级集成开发环境，支
 QQ:3201557995<br>
 QQ邮箱：3201557995@qq.com
 ## 关于版权/许可
-我们使用Apache许可证作为许可证，它清楚地说明了您可以做什么和不能做什么。有关详细信息，请参阅https://apache.org/licenses/
+我们使用GPL许可证作为许可证，它清楚地说明了您可以做什么和不能做什么。有关详细信息，请参阅https://www.gnu.org/licenses/gpl-3.0.en.html
 ## 关于第三方代码引用
 目前没有
 ## 关于想法
@@ -23,7 +23,7 @@ Please indicate your intention in the friend application form, otherwise you wil
 QQ:3201557995<br>
 QQ email:3201557995@qq.com
 ## About copyright / license
-We use the Apache license as the license, which clearly states what you can and cannot do. For details, see https://apache.org/licenses/
+We use the GPL as the license, which clearly states what you can and cannot do. For details, see https://www.gnu.org/licenses/gpl-3.0.en.html
 ##  About third party code references
 None at present
 ## About the ideas
