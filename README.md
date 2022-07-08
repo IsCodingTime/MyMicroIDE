@@ -8,3 +8,7 @@ QQ:3201557995<br>
 QQ email:3201557995@qq.com
 # About copyright / license
 We use the Apache license as the license, which clearly states what you can and cannot do. For details, see https://apache.org/licenses/
+#About quote
+None at present
+#About the ideas
+The idea comes from the mucodeeditor project of Sumu Cheng(苏沐橙). See the following for details: https://github.com/CaiMuCheng/MuCodeEditor
