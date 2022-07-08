@@ -4,7 +4,7 @@ MyMicroIDE is a lightweight integrated development environment running on the An
 The author is gou-zai(狗崽)，is a junior school student
 ## Contact the author
 Please indicate your intention in the friend application form, otherwise you will not add it
-QQ:3201557995
+QQ:3201557995<br>
 QQ email:3201557995@qq.com
 # About copyright / license
 We use the Apache license as the license, which clearly states what you can and cannot do. For details, see https://apache.org/licenses/
