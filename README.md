@@ -12,7 +12,7 @@ QQ邮箱：3201557995@qq.com
 ## 关于第三方代码引用
 目前没有
 ## 关于想法
-这个想法来自苏沐橙的mucodeeditor项目。详见：https://github.com/CaiMuCheng/MuCodeEditor
+这个想法来自苏沐橙的mucodeeditor项目。详见：https://github.com/CaiMuCheng/MuCodeEditor 
 # English Introduction
 ## About MyMicroIDE
 MyMicroIDE is a lightweight integrated development environment running on the Android platform, which supports the functions of mainstream integrated development environments such as code completion, debugging and operation. In addition, it also provides personal cloud storage connected to GitHub
