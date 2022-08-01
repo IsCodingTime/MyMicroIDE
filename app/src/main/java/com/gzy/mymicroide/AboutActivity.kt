@@ -13,7 +13,7 @@ import android.webkit.WebViewClient
 class AboutActivity : AppCompatActivity(){
     private var webView: WebView? = null
 
-    var WEB_URL = "http://about.mymicroide.top/"
+    var WEB_URL = "http://www.mymicroide.top/about/"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
