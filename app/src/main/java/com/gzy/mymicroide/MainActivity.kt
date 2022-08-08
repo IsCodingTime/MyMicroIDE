@@ -7,6 +7,8 @@ import android.view.Menu
 import android.view.MenuItem
 import android.widget.Toast
 
+var a="no"
+
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -15,7 +17,10 @@ class MainActivity : AppCompatActivity() {
 
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         when (item.itemId) {
-            R.id.about_item -> startActivity(Intent(this,AboutActivity::class.java))
+            R.id.save -> startActivity(Intent(this,HtmlRunActivity::class.java))
+            R.id.run -> startActivity(Intent(this,HtmlRunActivity::class.java))
+            R.id.html -> a="html"
+            R.id.about -> startActivity(Intent(this,AboutActivity::class.java))
             R.id.quit -> finish()
         }
         return true

@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
-        android:id="@+id/about_item"
+        android:id="@+id/run"
+        android:title="运行" />
+    <item
+        android:id="@+id/save"
+        android:title="保存文件" />
+    <item android:title="语言" >
+        <menu>
+            <item
+                android:id="@+id/html"
+                android:title="hHTML" />
+            <item
+                android:title="努力开发中,尽情期待" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/about"
         android:title="关于" />
     <item
         android:id="@+id/quit"
