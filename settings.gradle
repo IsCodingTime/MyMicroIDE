@@ -14,3 +14,7 @@ dependencyResolutionManagement {
 }
 rootProject.name = "MyMicroIDE"
 include ':app'
+include ':android-mark'
+include ':editor'
+include ':language'
+include ':text-modle'

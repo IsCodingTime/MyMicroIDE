@@ -10,7 +10,11 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/android-mark" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/editor" />
+            <option value="$PROJECT_DIR$/language" />
+            <option value="$PROJECT_DIR$/text-modle" />
           </set>
         </option>
       </GradleProjectSettings>
