@@ -25,6 +25,6 @@ QQ email:3201557995@qq.com
 ## About copyright / license
 We use the GPL as the license, which clearly states what you can and cannot do. For details, see https://www.gnu.org/licenses/gpl-3.0.en.html
 ##  About third party code references
-Some codes in the mucodeeditor project of Sumu orange are cited (approved). See: https://github.com/CaiMuCheng/MuCodeEditor
+Sumu Cheng(苏沐橙) in the mucodeeditor project of Sumu orange are cited (approved). See: https://github.com/CaiMuCheng/MuCodeEditor
 ## About the ideas
 The idea comes from the mucodeeditor project of Sumu Cheng(苏沐橙). See the following for details: https://github.com/CaiMuCheng/MuCodeEditor
