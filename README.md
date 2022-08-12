@@ -10,7 +10,7 @@ QQ邮箱：3201557995@qq.com
 ## 关于版权/许可
 我们使用GPL许可证作为许可证，它清楚地说明了您可以做什么和不能做什么。有关详细信息，请参阅https://www.gnu.org/licenses/gpl-3.0.en.html
 ## 关于第三方代码引用
-苏沐橙的mucodeeditor项目的编辑框(详见：https://github.com/CaiMuCheng/MuCodeEditor)
+目前没有
 ## 关于想法
 这个想法来自苏沐橙的mucodeeditor项目。详见：https://github.com/CaiMuCheng/MuCodeEditor 
 # English Introduction
@@ -25,6 +25,6 @@ QQ email:3201557995@qq.com
 ## About copyright / license
 We use the GPL as the license, which clearly states what you can and cannot do. For details, see https://www.gnu.org/licenses/gpl-3.0.en.html
 ##  About third party code references
-Edit box of mucodeeditor project of Sumu orange (see: https://github.com/CaiMuCheng/MuCodeEditor )
+None at present
 ## About the ideas
 The idea comes from the mucodeeditor project of Sumu Cheng(苏沐橙). See the following for details: https://github.com/CaiMuCheng/MuCodeEditor
